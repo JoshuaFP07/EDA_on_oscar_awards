@@ -1,6 +1,6 @@
 # Exploratory Data Analysis on Oscar Awards Dataset
 
-<img src='Images/EDA_cover.png'>
+<img src='Images/EDA_cover.png' width ="1000">
 
 ## Objective
 The objective of this project is to explore the Oscar Awards dataset and search for the most nominated from each category. The category that I'm searching is Director, Writer, Film Editor, Production Design, Actor Leading Role, Actor Supporting Role, Actress Leading Role, Actress Supporting Role, Cinematographer, Music (original score) Composer, Makeup Artist, Sound Editing, Visual Effect Artist.
