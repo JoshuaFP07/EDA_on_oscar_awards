@@ -12,7 +12,7 @@ Data Source: https://www.kaggle.com/datasets/unanimad/the-oscar-award
 
 ## Tools
 - Jupyter Notebook for easy documentation 
-- Python for Exploratory Data Analysis (data preparation and cleaning, explore, visualize).
+- Python for Exploratory Data Analysis (data preparation and cleaning, explore, and visualize).
 
 ## Closing
 I appreciate your interest in my project repository. I am open to any feedback, suggestions, or critiques you want to give me as it will increase my documentation skills for my newer projects and my analytical skills on data.
