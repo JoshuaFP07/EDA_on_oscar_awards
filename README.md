@@ -3,10 +3,10 @@
 <img src='Images/EDA_cover.png' width ="800">
 
 ## Objective
-The objective of this project is to explore the Oscar Awards dataset and search for the most nominated from each category. The category that I'm searching is Director, Writer, Film Editor, Production Design, Actor Leading Role, Actor Supporting Role, Actress Leading Role, Actress Supporting Role, Cinematographer, Music (original score) Composer, Makeup Artist, Sound Editing, Visual Effect Artist.
+The objective of this project is to explore the Oscar Awards dataset and search for the most nominated from each category. The category that I'm searching is Director, Writer, Film Editor, Production Design, Actor Leading Role, Actor Supporting Role, Actress Leading Role, Actress Supporting Role, Cinematographer, Music (original score) Composer, Makeup Artist, Sound Editing, and Visual Effect Artist.
 
 ## Data
-The data that I'm using is from Kaggle, The Oscar Award, 1927 - 2023.
+The data that I'm using is from Kaggle which is The Oscar Award, 1927 - 2023.
 
 Data Source: https://www.kaggle.com/datasets/unanimad/the-oscar-award
 
